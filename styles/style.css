@@ -169,6 +169,12 @@ footer a:hover {
     margin-top: 8px;
     flex:1;
 }
+.links-1 > a{
+    padding: 15px;
+}
 .links-2{
     padding-right: 18.7px;
+}
+.links-2 > a{
+    padding: 15px;
 }
